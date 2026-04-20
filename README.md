@@ -27,4 +27,4 @@ To run experiments in Sec. 4.5, execute
 python <algo_name>_dp.py <seed> cifar10 <epsilon>
 ```
 
-Results will be saved in the folder *res/<experiment>/<dataset>*.
+Results will be saved in the folder *res/\<experiment\>/\<dataset\>*.
